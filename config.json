@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xEd0D5326f864A93EF8B48F103ce0c88ff9294b18",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xEd0D5326f864A93EF8B48F103ce0c88ff9294b18",
+  "NETWORK": {
+    "NAME": "Rinkeby Testnet Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Sipmle Kid",
+  "SYMBOL": "SK",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea (Test)",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/simplekid",
+  "SHOW_BACKGROUND": true
+}
